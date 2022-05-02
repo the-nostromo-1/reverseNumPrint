@@ -2,6 +2,7 @@
    Make a program that takes a number input by the user and displays it reversed
    04/27/2022
    David J Tinley
+   V2 added 04/29/2022
    */
 #include <stdio.h>
 
